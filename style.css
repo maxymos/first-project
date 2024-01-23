@@ -1,0 +1,33 @@
+header {
+    background-color:blue;
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+p {
+    color: red;
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+.main {
+    background-color: aqua;
+    height: 500px;
+    text-align: center;
+    font-size: 121px;
+    font-weight: 700;
+}
+footer {
+    background-color: chocolate;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+}
+.paragraf {
+    font-size:24px;
+    color: chartreuse;
+}
